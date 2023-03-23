@@ -44,3 +44,17 @@ Input scan preferences: <br/>
 <img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/port-scanner/media/port-scan-input-options.png"/>
 <br />
 <br />
+
+<p align="center">
+Scan ports: <br/>
+</p>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/port-scanner/media/port-scan-scan-ports.png"/>
+<br />
+<br />
+
+<p align="center">
+Read scan report: <br/>
+</p>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/port-scanner/media/port-scan-read-scan-report.png"/>
+<br />
+<br />
