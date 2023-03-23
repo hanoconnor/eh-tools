@@ -1,0 +1,4 @@
+
+ [-] Host 192.168.56.1 Port 135: OPEN
+ [-] Host 192.168.56.1 Port 139: OPEN
+ [-] Host 192.168.56.1 Port 445: OPEN
