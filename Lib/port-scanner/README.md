@@ -32,8 +32,8 @@ Project consists of a simple port scanning tool written in Python. The utility a
 <h2>Program walkthrough:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src=""/>
+Launch the python app: <br/>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/port-scanner/media/port-scan-launch-utility.png"/>
 <br />
 <br />
 
