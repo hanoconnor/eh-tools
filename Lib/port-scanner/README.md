@@ -29,12 +29,18 @@ Project consists of a simple port scanning tool written in Python. The utility a
 - <b>Windows PowerShell</b>
 - <b>Windows 11 CMD Prompt</b>
 
-<h2>Program walkthrough:</h2>
+<h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the python app: <br/>
+</p>
 <img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/port-scanner/media/port-scan-launch-utility.png"/>
 <br />
 <br />
 
+<p align="center">
+Input scan preferences: <br/>
 </p>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/port-scanner/media/port-scan-input-options.png"/>
+<br />
+<br />
