@@ -52,6 +52,6 @@ print('''
 All of your files have been encrypted by Ran$um! They can only be decrypted with our bespoke Decrypt-R for the cost of 10 BTC. You have 48 hrs... 
 
 [!] DISCLAIM-R: Ran$um is an ethical hacking tool - intended for educational purposes only to demonstrate how ransomware encrypts files and how they can subsequently be decrypted. 
-Do NOT use this tool for mailicious purposes or without permnission. Performing hacking attempts on computers that you do not own (without permission) is illegal!
+Do NOT use this tool for malicious purposes or without permission. Performing hacking attempts on computers that you do not own (without permission) is illegal!
 ''')
 
