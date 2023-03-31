@@ -16,7 +16,24 @@
 <i>[!] DISCLAIM-R: performing hacking attempts on computers that you do not own (without permission) is illegal!</i>
 
 <h2>Description</h2>
-<p>This tool is a simple ransomware decryptor built in Python using the Fernet module of the cryptography package. It comes with a paired encryptor (Ran$um) to demonstrate functionality. This is is an ethical hacking tool, intended as a proof of concept for educational purposes only to demonstrate how ransomware encrypts files and how they can subsequently be decrypted. Do NOT use this tool for mailicious purposes or without permnission.</p>
+<p>This tool is a simple ransomware decryptor built in Python using the Fernet module of the cryptography package to decrypt encrypted files on successful input of a passcode phrase. It comes with a paired encryptor (Ran$um) to demonstrate functionality.</p> 
+<br>
+
+                                                                 
+    @@@@@@@    @@@@@@   @@@  @@@      @@      @@@  @@@  @@@@@@@@@@   
+    @@@@@@@@  @@@@@@@@  @@@@ @@@   @@@@@@@@@  @@@  @@@  @@@@@@@@@@@  
+    @@!  @@@  @@!  @@@  @@!@!@@@  !@@!@@!@@!  @@!  @@@  @@! @@! @@!  
+    !@!  @!@  !@!  @!@  !@!!@!@!  !@! !@      !@!  @!@  !@! !@! !@!  
+    @!@!!@!   @!@!@!@!  @!@ !!@!  !!!@@!!!!   @!@  !@!  @!! !!@ @!@  
+    !!@!@!    !!!@!!!!  !@!  !!!   !!!@@@!!!  !@!  !!!  !@!   ! !@!  
+    !!: :!!   !!:  !!!  !!:  !!!      !: !:!  !!:  !!!  !!:     !!:  
+    :!:  !:!  :!:  !:!  :!:  !:!  !:!!:!: :!  :!:  !:!  :!:     :!:  
+    ::   :::  ::   :::   ::   ::  : :::: ::   ::::: ::  :::     ::   
+     :   : :   :   : :  ::    :       ::       : :  :    :      :    
+                                                                 
+<br>
+<p>Ran$um is is an ethical hacking tool; it is intended as a proof of concept for educational purposes only to demonstrate how ransomware encrypts files and how they can subsequently be decrypted.</p>
+<b>Do NOT use this tool for malicious purposes or without permission.</b>
 
 <h2>Languages and Modules Used:</h2>
 
