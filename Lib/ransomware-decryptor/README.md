@@ -17,8 +17,8 @@
 
 <h2>Description</h2>
 <p>This tool is a simple ransomware decryptor built in Python using the Fernet module of the cryptography package to decrypt encrypted files on successful input of a passcode phrase. It comes with a paired encryptor (Ran$um) to demonstrate functionality.</p> 
-<br>
 
+<h3>Ran$um Encryption Tool</h3>
                                                                  
     @@@@@@@    @@@@@@   @@@  @@@      @@      @@@  @@@  @@@@@@@@@@   
     @@@@@@@@  @@@@@@@@  @@@@ @@@   @@@@@@@@@  @@@  @@@  @@@@@@@@@@@  
