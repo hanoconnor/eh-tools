@@ -49,5 +49,9 @@
 <p> Project consists of a simple bruteforcer tool written in Python. The utility allows you to input target url, username and password list to attempt login for penetration testing purposes ONLY. The bruteforcer tool will attempt login using each of the passwords on the provided password list and output message to confirm correct credentials if successful login completed.  </p>
 <br>
 
+<div align="center">
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-example-owaspbwa-alt.png"/>
+</div>
+
 <h2>Full Disclaimer</h2>
 <p>Any actions and or activities related to the material contained within this repository is solely your responsibility. The misuse of the tools in this repo could result in criminal charges being brought against the persons in question. The author will not be held responsible in the event any criminal charges are brought against any individuals misusing the tools in this repository for mailicious ourposes or to break the law.</p>
