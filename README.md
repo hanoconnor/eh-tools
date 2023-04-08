@@ -2,6 +2,8 @@
 
 <i>DISCLAIMER: these ethical hacking tools are intended for educational purposes only. Performing hacking attempts on computers that you do not own (without permission) is illegal!</i>
 <br>
+<p> These ethical hacking and penetration testing tools with a retro-graphics style are designed for use with a command-line interface.</p>
+<br><br>
 
     ██████╗  ██████╗ ██████╗ ████████╗    ███████╗ ██████╗ █████╗ ███╗   ██╗      ██████╗ 
     ██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║      ██╔══██╗
