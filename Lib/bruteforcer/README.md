@@ -32,7 +32,7 @@ The bruteforcer tool will attempt login using each of the passwords on the provi
 <div align="center">
 <p>Run bruteforcer.py in terminal using python3: </p>
 <br/>
-<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-run.png"/>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-run-alt.png"/>
 </div
 <br />
 <br />
