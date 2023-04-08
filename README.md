@@ -16,6 +16,11 @@
 <p>This tool is a simple port scanner built in Python using the socket module with the functionality to scan multiple target hosts, specify the number of ports to scan, and save the scan report to a txt file.</p>
 <br>
 
+<div align="center">
+<img src="https://github.com/hanoconnor/ethical-hacking-tools/blob/main/Lib/port-scanner/media/port-scan-alt.png"/>
+</div>
+<br><br>
+
     ██████╗ ███████╗ ██████╗██████╗ ██╗   ██╗██████╗ ████████╗   ██████╗ 
     ██╔══██╗██╔════╝██╔════╝██╔══██╗╚██╗ ██╔╝██╔══██╗╚══██╔══╝   ██╔══██╗
     ██║  ██║█████╗  ██║     ██████╔╝ ╚████╔╝ ██████╔╝   ██║█████╗██████╔╝
@@ -46,6 +51,7 @@
 <div align="center">
 <img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-example-owaspbwa-alt.png"/>
 </div>
+<br><br>
 
 <h2>Full Disclaimer</h2>
 <p>Any actions and or activities related to the material contained within this repository is solely your responsibility. The misuse of the tools in this repo could result in criminal charges being brought against the persons in question. The author will not be held responsible in the event any criminal charges are brought against any individuals misusing the tools in this repository for mailicious ourposes or to break the law.</p>
