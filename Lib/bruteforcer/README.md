@@ -32,7 +32,7 @@ The bruteforcer tool will attempt login using each of the passwords on the provi
 <div align="center">
 <p>Run bruteforcer.py in terminal using python3: </p>
 <br/>
-<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-example-owaspbwa.png"/>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-run.png"/>
 </div
 <br />
 <br />
@@ -40,7 +40,7 @@ The bruteforcer tool will attempt login using each of the passwords on the provi
 <div align="center">
 <p>Input login url, username to attempt, password list file name and failed login message: </p>
 <br/>
-<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-example-owaspbwa.png"/>
+<img src="https://github.com/hanoconnor/eh-tools/blob/main/Lib/bruteforcer/bruteforcer-inputs.png"/>
 </div
 <br />
 <br />
