@@ -1,4 +1,4 @@
-<h1>Ethical Hacking tools:</h1>
+<h1>Ethical Hacking / Penetration Testing tools:</h1>
 
 <i>DISCLAIMER: these ethical hacking tools are intended for educational purposes only. Performing hacking attempts on computers that you do not own (without permission) is illegal!</i>
 <br>
