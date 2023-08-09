@@ -8,7 +8,7 @@
 
 <h1>Hack-R Tools: Ethical Hacking / Penetration Testing tools</h1>
 
-<i>DISCLAIMER: these ethical hacking tools are intended for educational purposes only. Performing hacking attempts on computers that you do not own (without permission) is illegal!</i>
+<i>DISCLAIMER: these ethical hacking tools are intended for educational purposes and awareness training sessions only. Performing hacking attempts on computers that you do not own (without permission) is illegal! Do not attempt to gain access to device that you do not own.</i>
 <br>
 <p> The Hack-R Tools series are ethical hacking and penetration testing tools with a retro-graphics style, designed for use with a command-line interface.</p>
 <br><br>
